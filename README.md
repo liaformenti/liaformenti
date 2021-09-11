@@ -16,7 +16,6 @@ access to education, or building scientific agency.
 
 ### CONTACT
 Check me out on [LinkedIn](https://www.linkedin.com/in/lia-formenti-317919105/).
-Or email me at liaformenti@gmail.com
 
 <!---
 liaformenti/liaformenti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
