@@ -6,7 +6,7 @@
 
 -> Physics taught me to learn new programs / softwares / languages / techniques fast.
 
--> I like engaging with the public about science! I gave a public lecture in [May 2020](https://www.facebook.com/physicsmatters/videos/242040183882347/) and [March 2021](https://www.mcgill.ca/science/channels/event/bicentennial-stars-take-it-limit-mammoth-machines-and-tiniest-particles-327730). I also coordinate [monthly public lectures](https://physicsmatters.physics.mcgill.ca/past-lectures/) and help coordinate the [Space Explorers Program](https://physicsmatters.physics.mcgill.ca/school-programs/).
+-> I like engaging with the public about science! I gave a public lecture in [May 2020](https://www.facebook.com/physicsmatters/videos/242040183882347/) and [March 2021](https://www.mcgill.ca/science/channels/event/bicentennial-stars-take-it-limit-mammoth-machines-and-tiniest-particles-327730). I also coordinate [monthly public lectures](https://physicsmatters.physics.mcgill.ca/past-lectures/) and help coordinate the [Space Explorers Program](https://physicsmatters.physics.mcgill.ca/school-programs/) in the Department of Physics at McGill.
 
 ### FUTURE
 Maybe after I submit my thesis I'll try coding for fun more . . . 
