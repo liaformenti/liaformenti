@@ -18,6 +18,8 @@ Python, C++, Git, Bash, SQLite
 
 ...mission-driven companies hiring data specialists. My training as a physicist has given me the technical skills to transition to data roles and my commitment to science education sets me apart as someone who can communicate technical information to diverse audiences.
 
+Currently seeking roles in the field of climate science to be part of the solution to the greatest challenge of our time.
+
 ### CONTACT
 Check me out on [LinkedIn](https://www.linkedin.com/in/lia-formenti-317919105/).
 
